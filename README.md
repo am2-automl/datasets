@@ -1,2 +1,2 @@
 # Datasets
-Datasets used in PyCaret
+Datasets used in AMSquare
